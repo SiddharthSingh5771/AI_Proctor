@@ -1,0 +1,5 @@
+timestamp,session_time_sec,num_faces,looking_away,extra_person,phone_detected,noise_detected,risk_score
+2026-01-03T16:11:07,2.6,0,1,0,0,0,0.00
+2026-01-03T16:11:08,3.6,0,1,0,0,0,0.52
+2026-01-03T16:11:09,4.6,0,1,0,0,0,1.03
+2026-01-03T16:11:10,5.7,0,1,0,0,0,1.54
